@@ -7,6 +7,8 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "01BD_PedidosFusionFloral", 
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "02BD_ICS", "02BD_ICS\02BD_ICS.sqlproj", "{8DC4AD68-7CB9-4599-83F9-281994354534}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "03BD_Matriculas", "03BD_Matriculas\03BD_Matriculas.sqlproj", "{D01A6D01-45C4-4C5F-A60C-B407130B3D98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,12 @@ Global
 		{8DC4AD68-7CB9-4599-83F9-281994354534}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DC4AD68-7CB9-4599-83F9-281994354534}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8DC4AD68-7CB9-4599-83F9-281994354534}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D01A6D01-45C4-4C5F-A60C-B407130B3D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01A6D01-45C4-4C5F-A60C-B407130B3D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01A6D01-45C4-4C5F-A60C-B407130B3D98}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D01A6D01-45C4-4C5F-A60C-B407130B3D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01A6D01-45C4-4C5F-A60C-B407130B3D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D01A6D01-45C4-4C5F-A60C-B407130B3D98}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
